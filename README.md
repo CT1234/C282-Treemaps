@@ -1,3 +1,3 @@
 # C282-Treemaps
-Class Assignment - Treemaps
+Class Assignment - Treemaps  
 Sept 11, 2014
